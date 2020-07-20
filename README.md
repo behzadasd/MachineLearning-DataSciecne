@@ -17,7 +17,7 @@ Data from Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
 This dataset contains ~21000 house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
 --------------------------------------------------------------------------------------------------------
-### ML_CreditCardFraudPrediction_1.ipynb
+### ML_SVM_ANN_LogReg_CreditCardFraudPrediction.ipynb
 ##### Machine Learning model for Credit Card Fraud Detection
 Training a prediction model to detect credit card fraud based on ~284000 dataset, using:
 
