@@ -1,6 +1,15 @@
 # Machine Learning and Data Sciecne codes
 
-### MachineLearning_DeepLearning_HousePricesPrediction.ipynb
+### ML_DeepLearning_CreditCardFraudPrediction.ipynb
+##### A Deep Learning model for Credit Card Fraud Detection using Keras
+Training a prediction model to detect credit card fraud based on ~358000 dataset, using keras.
+
+This dataset contains the LendingClub data available from their site, 2007 through current Lending Club accepted and rejected loan data. The data is a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
+
+LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform
+
+--------------------------------------------------------------------------------------------------------
+### ML_DeepLearning_HousePricesPrediction.ipynb
 
 #### A Deep Learning model for House Price Predictions using Keras
 Data from Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
@@ -8,7 +17,7 @@ Data from Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
 This dataset contains ~21000 house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
 --------------------------------------------------------------------------------------------------------
-### MachineLearning_CreditCardFraudPrediction_1.ipynb
+### ML_CreditCardFraudPrediction_1.ipynb
 ##### Machine Learning model for Credit Card Fraud Detection
 Training a prediction model to detect credit card fraud based on ~284000 dataset, using:
 
