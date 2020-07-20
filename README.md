@@ -4,6 +4,7 @@
 
 #### A Deep Learning model for House Price Predictions using Keras
 Data from Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
+
 This dataset contains ~21000 house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
 --------------------------------------------------------------------------------------------------------
